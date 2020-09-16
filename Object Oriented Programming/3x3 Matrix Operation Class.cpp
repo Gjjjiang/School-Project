@@ -229,4 +229,5 @@ int main() {
  cout<<"determinant of the second matrix is"<<endl;
  cout<<j.determinant()<<endl;
  
+ return 0;
 }
