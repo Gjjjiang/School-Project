@@ -180,5 +180,6 @@ int main() {
    cout << n << " >= " << m << " is " << ((n >= m) ? "True" : "False") << endl;
    cout << n << " == " << m << " is " << ((n == m) ? "True" : "False") << endl;
    cout << n << " != " << m << " is " << ((n != m) ? "True" : "False") << endl;
- 
+   
+   return 0;
 }
